@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: DNRouter.router-annotation.router-annotation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/router-annotation/build/libs/router-annotation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

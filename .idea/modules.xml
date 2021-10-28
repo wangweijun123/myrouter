@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DNRouter.iml" filepath="$PROJECT_DIR$/DNRouter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DNRouter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DNRouter.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/base/DNRouter.base.iml" filepath="$PROJECT_DIR$/.idea/modules/base/DNRouter.base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module1/DNRouter.module1.iml" filepath="$PROJECT_DIR$/.idea/modules/module1/DNRouter.module1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module2/DNRouter.module2.iml" filepath="$PROJECT_DIR$/.idea/modules/module2/DNRouter.module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/router-annotation/DNRouter.router-annotation.iml" filepath="$PROJECT_DIR$/.idea/modules/router-annotation/DNRouter.router-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/router-compiler/DNRouter.router-compiler.iml" filepath="$PROJECT_DIR$/.idea/modules/router-compiler/DNRouter.router-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/router-core/DNRouter.router-core.iml" filepath="$PROJECT_DIR$/.idea/modules/router-core/DNRouter.router-core.iml" />
+    </modules>
+  </component>
+</project>
